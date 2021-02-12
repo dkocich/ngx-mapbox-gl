@@ -57,7 +57,7 @@
     "ngx-md": "^8.0.0",
     "rxjs": "^6.5.2",
     "scroll-into-view-if-needed": "^2.2.20",
-    "tslib": "^2.0.0",
+    "tslib": "^2.1.0",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
