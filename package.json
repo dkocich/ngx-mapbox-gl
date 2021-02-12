@@ -55,7 +55,7 @@
     "lodash-es": "^4.17.11",
     "mapbox-gl": "1.13.0",
     "ngx-md": "^8.0.0",
-    "rxjs": "^6.5.2",
+    "rxjs": "^6.6.3",
     "scroll-into-view-if-needed": "^2.2.20",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.2"
